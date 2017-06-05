@@ -22,6 +22,6 @@
    **Side Bar headers change when you mouse over them**  
    
    now i am using _emphasis for last six words_.  
-   - Copyright: Copyright © 1215 by maplebots.com    
+   - Copyright: Copyright © 1215 by maplebots.com  
   
   
