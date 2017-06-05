@@ -21,4 +21,8 @@
    **BrainStation logo links to brainstation.io **
    **Side Bar headers change when you mouse over them **
    
-   (https://google.com/Desktop/logo.png "MAPLEBOTS LOGO")
+   now i am using _emphasis for last six words_.
+   
+ -Date:05/06/2017
+   - Copyright: Copyright © 1215
+  by maplebots.com
