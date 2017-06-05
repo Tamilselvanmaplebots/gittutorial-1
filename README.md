@@ -2,9 +2,9 @@
 **exercise-1**
   simple exercise  
 **exercise-2**
- must use the conditional statements
+ must use the conditional statements  
 **exercise-3**
-   javascript loops concept
+   javascript loops concept  
 **exercise-4**
      resturant code
   >must use the this method
