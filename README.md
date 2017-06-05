@@ -1,4 +1,5 @@
-                           *MAPLEBOTS ASSIGNMENTS*
+                         Markdown Cheatsheet
+===================
 **exercise-1**
   simple exercise  
 **exercise-2**
@@ -12,7 +13,7 @@
 **exercise-5**
     Advanced looping concept:  
     **must use three function**  
-    **function 1:searching name **  
+    **function 1:searching name**  
     **function 2:specify mark should be greater than 50**  
     **function 3:arrange the rank in sorted order**  
  **exercise-6:**
