@@ -1,6 +1,6 @@
                            *MAPLEBOTS ASSIGNMENTS*
 **exercise-1**
-  simple exercise_
+  simple exercise  
 **exercise-2**
  must use the conditional statements
 **exercise-3**
