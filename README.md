@@ -16,13 +16,12 @@
     **function 2:specify mark should be greater than 50**  
     **function 3:arrange the rank in sorted order**  
  **exercise-6:**
-   creating web page:
-   **Nav bar stays in same position when scrolling **
-   **BrainStation logo links to brainstation.io **
-   **Side Bar headers change when you mouse over them **
+   creating web page:  
+   **Nav bar stays in same position when scrolling **  
+   **BrainStation logo links to brainstation.io **  
+   **Side Bar headers change when you mouse over them **  
    
-   now i am using _emphasis for last six words_.
+   now i am using _emphasis for last six words_.  
    
- -Date:05/06/2017
-   - Copyright: Copyright © 1215
-  by maplebots.com
+ -Date:05/06/2017  
+   - Copyright: Copyright © 1215 by maplebots.com  
