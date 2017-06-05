@@ -6,7 +6,7 @@
 **exercise-3**
    javascript loops concept  
 **exercise-4**  
-     resturant code
+  resturant code
   >must use the this method  
   >don't change the generatemenu() function  
 **exercise-5**
