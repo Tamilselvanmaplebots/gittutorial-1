@@ -21,4 +21,4 @@
    **BrainStation logo links to brainstation.io **
    **Side Bar headers change when you mouse over them **
    
-   (https://logo.png "MAPLEBOTS LOGO")
+   (https://google.com/Desktop/logo.png "MAPLEBOTS LOGO")
