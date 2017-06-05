@@ -1,4 +1,4 @@
-                           *MAPLEBOTS ASSIGNMENTS**
+                           *MAPLEBOTS ASSIGNMENTS*
 **exercise-1**
   simple exercise
 **exercise-2**
