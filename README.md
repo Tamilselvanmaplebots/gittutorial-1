@@ -1,4 +1,4 @@
-                       # maplebots assignment #
+                       # Heading 1 #
 **exercise-1**
   simple exercise  
 **exercise-2**
@@ -22,6 +22,4 @@
    **Side Bar headers change when you mouse over them**  
    
    now i am using _emphasis for last six words_.  
-   
- -Date:05/06/2017  
    - Copyright: Copyright © 1215 by maplebots.com  
