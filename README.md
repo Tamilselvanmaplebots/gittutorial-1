@@ -20,3 +20,5 @@
    **Nav bar stays in same position when scrolling **
    **BrainStation logo links to brainstation.io **
    **Side Bar headers change when you mouse over them **
+   
+   (https://logo.png "MAPLEBOTS LOGO")
