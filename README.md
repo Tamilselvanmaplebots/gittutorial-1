@@ -17,9 +17,9 @@
     **function 3:arrange the rank in sorted order**  
  **exercise-6:**
    creating web page:  
-   **Nav bar stays in same position when scrolling **  
-   **BrainStation logo links to brainstation.io **  
-   **Side Bar headers change when you mouse over them **  
+   **Nav bar stays in same position when scrolling**  
+   **BrainStation logo links to brainstation.io**  
+   **Side Bar headers change when you mouse over them**  
    
    now i am using _emphasis for last six words_.  
    
